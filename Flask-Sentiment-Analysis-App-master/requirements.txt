@@ -1,0 +1,7 @@
+flask
+nltk
+requests
+scikit-learn
+vadersentiment
+
+C:\Users\Dell\Desktop\Assignments\Test_Flask\Flask-Sentiment-Analysis-App-master\Flask-Sentiment-Analysis-App-master
